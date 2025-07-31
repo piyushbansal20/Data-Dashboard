@@ -125,7 +125,7 @@ const App = () => {
         <div className="bg-gray-50 min-h-screen p-4 sm:p-6 lg:p-8 font-sans">
             <div className="max-w-7xl mx-auto space-y-6">
                 <header className="text-center">
-                    <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 tracking-tight">MERN JSON Analytics Dashboard</h1>
+                    <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 tracking-tight">Data Dashboard</h1>
                     <p className="mt-2 text-lg text-gray-600">Instantly upload, visualize, and chat with your data.</p>
                 </header>
 
