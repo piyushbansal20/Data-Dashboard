@@ -25,6 +25,10 @@ Before you begin, ensure you have the following installed:
 - A MongoDB Atlas account for your database [https://www.mongodb.com/cloud/atlas](https://www.mongodb.com/cloud/atlas)
 - A Google AI Studio API Key for the Gemini chatbot [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 
+## Access Link
+
+https://data-dashboard-1-4di3.onrender.com/
+
 
 ## Project Setup Instructions
 
